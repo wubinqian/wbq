@@ -1,0 +1,2 @@
+# wbq
+componets interpretation
